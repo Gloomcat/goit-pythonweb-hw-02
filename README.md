@@ -19,7 +19,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
-Після запуску, додаток буде доступний за посиланням:
-
-[127.0.0.1](http://127.0.0.1:8000/)
