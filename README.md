@@ -17,5 +17,9 @@ pip install -r requirements.txt
 Запуск:
 
 ```bash
-python main.py
+docker-compose up
 ```
+
+URL:
+
+[App](http://127.0.0.1:8000)
